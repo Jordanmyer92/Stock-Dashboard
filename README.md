@@ -9,3 +9,5 @@ https://github.com/Jordanmyer92/Stock-Dashboard/blob/main/Screenshots/Candlestic
 https://github.com/Jordanmyer92/Stock-Dashboard/blob/main/Screenshots/Create%20Excel.png
 
 https://github.com/Jordanmyer92/Stock-Dashboard/blob/main/Screenshots/Screener.png
+
+https://github.com/Jordanmyer92/Stock-Dashboard/blob/main/Screenshots/Machine%20Learning.png
