@@ -13,3 +13,5 @@ https://github.com/Jordanmyer92/Stock-Dashboard/blob/main/Screenshots/Create%20E
 https://github.com/Jordanmyer92/Stock-Dashboard/blob/main/Screenshots/Screener.png
 
 https://github.com/Jordanmyer92/Stock-Dashboard/blob/main/Screenshots/Machine%20Learning.png
+
+https://github.com/Jordanmyer92/Stock-Dashboard/blob/main/Screenshots/Tableau.png
